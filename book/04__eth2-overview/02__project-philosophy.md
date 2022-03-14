@@ -6,7 +6,7 @@ title: "Project Philosophy"
 
 We now turn our attention to some of the guiding philosophies behind Eth2. The design goals described in this section heavily influence the specifications for Eth1 as a whole. It's often easier to understand the decisions made in the construction of Eth2 through the lens of these philosophies. Several authors have published slightly differing goals for the development of Eth2. We focus specifically on the points highlighted by Danny Ryan of the Ethereum Foundation. However, we derive additional context from Vitalik Buterin's design rationale document and other older publications.
 
-Eth2 development is directed primarily by adherence to five high-level design principles: decentralization, resilience, security simplicity, and longevity. Although their names are descriptive, each goal corresponds to a particular set of well-reasoned target properties for Eth2. These principles therefore act as concrete requirements and more general guidelines. We'll take a look at both on sides of each principle and provide some intuition as to how these principles play into the construction of Eth2.
+Eth2 development is directed primarily by adherence to five high-level design principles: decentralization, resilience, security simplicity, and longevity. Although their names are descriptive, each goal corresponds to a particular set of well-reasoned target properties for Eth2. These principles therefore act as concrete requirements and more general guidelines. We'll take a look on both sides of each principle and provide some intuition as to how these principles play into the construction of Eth2.
 
 ## Decentralization
 
